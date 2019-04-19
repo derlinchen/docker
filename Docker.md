@@ -213,7 +213,7 @@
 		EXPOSE  声明镜像内服务监听的端口
 		ENV  指定环境变抵
 		ENTRYPOINT  指定镜像的默认入口命令
-		配置指令 VOLUME  创建一个数据卷挂载点
+		VOLUME  创建一个数据卷挂载点
 		USER  指定运行容器时的用户名或UID
 		WORKDIR  配置工作目录
 		ONBUILD  创建子镜像时指定自动执行的操作指令
