@@ -18,7 +18,7 @@
 
 4. 查看镜像历史：
 
-	 	docker history ubuntu:16.04`
+	 	docker history ubuntu:16.04
 
 5. 查询镜像：
 
